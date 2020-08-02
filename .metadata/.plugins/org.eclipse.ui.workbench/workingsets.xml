@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workingSetManager>
+<workingSet editPageId="com.ibm.etools.mft.navigator.BrokerWorkingSet.AppLib" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1596046719406_1" label="[HelloWorldSoap]" name="[HelloWorldSoap]">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/HelloWorldSoap" type="4"/>
+</workingSet>
+<workingSet editPageId="com.ibm.etools.mft.navigator.BrokerWorkingSet.AppLib" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1596054263586_2" label="[HelloAppend]" name="[HelloAppend]">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/HelloAppend" type="4"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1580855323061_0" label="Window Working Set" name="Aggregate for window 1580855323061"/>
+</workingSetManager>
